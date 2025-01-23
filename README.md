@@ -1,4 +1,4 @@
-# Bug Bounty Methodology
+# Bug Bounty Methodologys
 
 This repository provides a structured bug bounty methodology, offering a step-by-step approach to vulnerability discovery and exploitation. It's built from numerous resources and personal insights, focusing on practical tools and techniques for successful bug hunting.
 
